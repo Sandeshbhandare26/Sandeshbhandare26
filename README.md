@@ -12,4 +12,6 @@
 - **Tools:** Docker, Git, Linux
 
 ## 🌐 Connect with Me
-[![LinkedIn](www.linkedin.com/in/sandesh-bhandare-2750b428b)
+www.linkedin.com/in/sandesh-bhandare-2750b428b
+
+
